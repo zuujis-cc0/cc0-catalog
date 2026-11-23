@@ -1,0 +1,629 @@
+{
+ "updated": "2026-11-23",
+ "org": "zuujis-cc0",
+ "sections": [
+  {
+   "slug": "surfaces",
+   "title": "\ud83e\uddf1 Textures and materials",
+   "topics": [
+    {
+     "slug": "wood",
+     "title": "Wood",
+     "about": "Planks, floors, bark, bamboo, painted and raw wood",
+     "assets": 526,
+     "here": 128,
+     "sources": [
+      "Poly Haven",
+      "ambientCG"
+     ],
+     "repos": [
+      "ambientcg-materials-bark",
+      "ambientcg-materials-chipboard",
+      "ambientcg-materials-more",
+      "ambientcg-materials-more-2",
+      "ambientcg-materials-more-4",
+      "ambientcg-materials-more-7",
+      "ambientcg-materials-more-8",
+      "ambientcg-materials-more-9",
+      "ambientcg-materials-painted-wood",
+      "ambientcg-materials-planks",
+      "ambientcg-materials-planks-2",
+      "ambientcg-materials-planks-3",
+      "ambientcg-materials-wood",
+      "ambientcg-materials-wood-2",
+      "ambientcg-materials-wood-3",
+      "ambientcg-materials-wood-4",
+      "ambientcg-materials-wood-floor",
+      "ambientcg-materials-wood-floor-2",
+      "ambientcg-materials-wood-floor-3",
+      "ambientcg-materials-wood-siding",
+      "ambientcg-substances",
+      "ambientcg-substances-2",
+      "polyhaven-textures-wood",
+      "polyhaven-textures-wood-2",
+      "polyhaven-textures-wood-3",
+      "polyhaven-textures-wood-4"
+     ],
+     "page": "topics/wood.md",
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/polyhaven-textures-wood-2/main/previews/metasequoia_bark.webp"
+    },
+    {
+     "slug": "brick",
+     "title": "Brick and block",
+     "about": "Brick walls, blocks and painted brick",
+     "assets": 302,
+     "here": 288,
+     "sources": [
+      "Poly Haven",
+      "ambientCG"
+     ],
+     "repos": [
+      "ambientcg-materials-bricks",
+      "ambientcg-materials-bricks-2",
+      "ambientcg-materials-bricks-3",
+      "ambientcg-materials-bricks-4",
+      "ambientcg-materials-bricks-5",
+      "ambientcg-materials-bricks-6",
+      "ambientcg-materials-more-5",
+      "ambientcg-substances",
+      "polyhaven-textures-brick-and-block",
+      "polyhaven-textures-brick-and-block-2",
+      "polyhaven-textures-brick-and-block-3",
+      "polyhaven-textures-brick-and-block-4"
+     ],
+     "page": "topics/brick.md",
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/ambientcg-materials-bricks-3/main/previews/Bricks071.png"
+    },
+    {
+     "slug": "stone",
+     "title": "Stone and rock",
+     "about": "Rock faces, cobbles, marble, granite and terrazzo",
+     "assets": 353,
+     "here": 173,
+     "sources": [
+      "Poly Haven",
+      "ambientCG"
+     ],
+     "repos": [
+      "ambientcg-materials-granite",
+      "ambientcg-materials-marble",
+      "ambientcg-materials-more-4",
+      "ambientcg-materials-more-5",
+      "ambientcg-materials-more-8",
+      "ambientcg-materials-rock",
+      "ambientcg-materials-rock-2",
+      "ambientcg-materials-rock-3",
+      "ambientcg-materials-rocks",
+      "ambientcg-materials-rocks-2",
+      "ambientcg-materials-terrazzo",
+      "ambientcg-substances",
+      "polyhaven-textures-stone",
+      "polyhaven-textures-stone-2",
+      "polyhaven-textures-stone-3",
+      "polyhaven-textures-stone-4",
+      "polyhaven-textures-stone-5"
+     ],
+     "page": "topics/stone.md",
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/polyhaven-textures-stone-2/main/previews/granite_tile_03.webp"
+    },
+    {
+     "slug": "paving",
+     "title": "Roads and paving",
+     "about": "Asphalt, roads, paving stones and paths",
+     "assets": 283,
+     "here": 68,
+     "sources": [
+      "Poly Haven",
+      "ambientCG"
+     ],
+     "repos": [
+      "ambientcg-materials-asphalt",
+      "ambientcg-materials-asphalt-2",
+      "ambientcg-materials-asphalt-3",
+      "ambientcg-materials-more-5",
+      "ambientcg-materials-more-7",
+      "ambientcg-materials-paving-stones",
+      "ambientcg-materials-paving-stones-2",
+      "ambientcg-materials-paving-stones-3",
+      "ambientcg-materials-paving-stones-4",
+      "ambientcg-materials-paving-stones-5",
+      "ambientcg-materials-paving-stones-6",
+      "ambientcg-materials-paving-stones-7",
+      "ambientcg-materials-road",
+      "ambientcg-materials-road-2",
+      "ambientcg-substances",
+      "polyhaven-textures-asphalt-and-bitumen"
+     ],
+     "page": "topics/paving.md",
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/ambientcg-materials-asphalt/main/previews/Asphalt020L.png"
+    },
+    {
+     "slug": "tiles",
+     "title": "Tiles and roofing",
+     "about": "Floor and wall tiles, ceramics and roof tiles",
+     "assets": 251,
+     "here": 26,
+     "sources": [
+      "Poly Haven",
+      "ambientCG"
+     ],
+     "repos": [
+      "ambientcg-materials-more-3",
+      "ambientcg-materials-more-6",
+      "ambientcg-materials-more-8",
+      "ambientcg-materials-roofing-tiles",
+      "ambientcg-materials-tiles",
+      "ambientcg-materials-tiles-2",
+      "ambientcg-materials-tiles-3",
+      "ambientcg-materials-tiles-4",
+      "ambientcg-materials-tiles-5",
+      "ambientcg-substances",
+      "polyhaven-textures-ceramic"
+     ],
+     "page": "topics/tiles.md",
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/polyhaven-textures-ceramic/main/previews/grey_roof_01.webp"
+    },
+    {
+     "slug": "walls",
+     "title": "Concrete, plaster and walls",
+     "about": "Concrete, plaster, facades and wallpaper",
+     "assets": 267,
+     "here": 215,
+     "sources": [
+      "Poly Haven",
+      "ambientCG"
+     ],
+     "repos": [
+      "ambientcg-materials-concrete",
+      "ambientcg-materials-concrete-2",
+      "ambientcg-materials-concrete-3",
+      "ambientcg-materials-facade",
+      "ambientcg-materials-more-4",
+      "ambientcg-materials-more-5",
+      "ambientcg-materials-more-6",
+      "ambientcg-materials-more-8",
+      "ambientcg-materials-painted-plaster",
+      "ambientcg-substances",
+      "polyhaven-textures-concrete",
+      "polyhaven-textures-concrete-2",
+      "polyhaven-textures-concrete-3",
+      "polyhaven-textures-concrete-4"
+     ],
+     "page": "topics/walls.md",
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/ambientcg-materials-concrete-3/main/previews/Concrete044A.png"
+    },
+    {
+     "slug": "ground",
+     "title": "Ground, grass and snow",
+     "about": "Soil, gravel, grass, moss, sand, snow, ice and lava",
+     "assets": 411,
+     "here": 243,
+     "sources": [
+      "Poly Haven",
+      "ambientCG"
+     ],
+     "repos": [
+      "ambientcg-materials-grass",
+      "ambientcg-materials-gravel",
+      "ambientcg-materials-gravel-2",
+      "ambientcg-materials-gravel-3",
+      "ambientcg-materials-ground",
+      "ambientcg-materials-ground-2",
+      "ambientcg-materials-ground-3",
+      "ambientcg-materials-ground-4",
+      "ambientcg-materials-ground-5",
+      "ambientcg-materials-ground-6",
+      "ambientcg-materials-more-2",
+      "ambientcg-materials-more-3",
+      "ambientcg-materials-more-4",
+      "ambientcg-materials-more-6",
+      "ambientcg-materials-snow",
+      "ambientcg-substances",
+      "ambientcg-terrains",
+      "polyhaven-textures-ground-and-terrain",
+      "polyhaven-textures-ground-and-terrain-2",
+      "polyhaven-textures-ground-and-terrain-3",
+      "polyhaven-textures-ground-and-terrain-4",
+      "polyhaven-textures-ground-and-terrain-5",
+      "polyhaven-textures-organic"
+     ],
+     "page": "topics/ground.md",
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/ambientcg-materials-gravel/main/previews/Gravel011.png"
+    },
+    {
+     "slug": "metal",
+     "title": "Metal",
+     "about": "Plates, sheet metal, rust, grates, fences and painted metal",
+     "assets": 290,
+     "here": 62,
+     "sources": [
+      "Poly Haven",
+      "ambientCG"
+     ],
+     "repos": [
+      "ambientcg-materials-corrugated-steel",
+      "ambientcg-materials-diamond-plate",
+      "ambientcg-materials-metal",
+      "ambientcg-materials-metal-2",
+      "ambientcg-materials-metal-3",
+      "ambientcg-materials-metal-plates",
+      "ambientcg-materials-metal-walkway",
+      "ambientcg-materials-more",
+      "ambientcg-materials-more-2",
+      "ambientcg-materials-more-3",
+      "ambientcg-materials-more-5",
+      "ambientcg-materials-more-6",
+      "ambientcg-materials-more-7",
+      "ambientcg-materials-painted-metal",
+      "ambientcg-materials-rust",
+      "ambientcg-substances",
+      "polyhaven-textures-metal"
+     ],
+     "page": "topics/metal.md",
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/ambientcg-materials-corrugated-steel/main/previews/CorrugatedSteel009.png"
+    },
+    {
+     "slug": "fabric",
+     "title": "Fabric and leather",
+     "about": "Cloth, carpet, leather, wicker and rope",
+     "assets": 252,
+     "here": 150,
+     "sources": [
+      "Poly Haven",
+      "ambientCG"
+     ],
+     "repos": [
+      "ambientcg-materials-carpet",
+      "ambientcg-materials-fabric",
+      "ambientcg-materials-fabric-2",
+      "ambientcg-materials-fabric-3",
+      "ambientcg-materials-fabric-4",
+      "ambientcg-materials-leather",
+      "ambientcg-materials-leather-2",
+      "ambientcg-materials-more-4",
+      "ambientcg-materials-more-6",
+      "ambientcg-materials-wicker",
+      "ambientcg-substances",
+      "polyhaven-textures-textiles-and-leather",
+      "polyhaven-textures-textiles-and-leather-2",
+      "polyhaven-textures-textiles-and-leather-3"
+     ],
+     "page": "topics/fabric.md",
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/ambientcg-materials-fabric/main/previews/Fabric019.png"
+    },
+    {
+     "slug": "wear",
+     "title": "Dirt, scratches and wear",
+     "about": "Fingerprints, smears, scratches, leaks and other imperfections",
+     "assets": 66,
+     "here": 0,
+     "sources": [
+      "ambientCG"
+     ],
+     "repos": [
+      "ambientcg-materials-more",
+      "ambientcg-materials-more-3",
+      "ambientcg-materials-more-6",
+      "ambientcg-materials-more-7",
+      "ambientcg-materials-surface-imperfections",
+      "ambientcg-substances"
+     ],
+     "page": "topics/wear.md",
+     "picture": null
+    },
+    {
+     "slug": "other-surfaces",
+     "title": "Plastic, paper and more",
+     "about": "Plastic, paper, cardboard, foam, food and everything else",
+     "assets": 133,
+     "here": 11,
+     "sources": [
+      "Poly Haven",
+      "ambientCG"
+     ],
+     "repos": [
+      "ambientcg-materials-more",
+      "ambientcg-materials-more-3",
+      "ambientcg-materials-more-5",
+      "ambientcg-materials-more-6",
+      "ambientcg-materials-more-7",
+      "ambientcg-materials-plastic",
+      "ambientcg-materials-sign",
+      "ambientcg-plain-textures",
+      "ambientcg-substances",
+      "polyhaven-textures-paper-and-card",
+      "polyhaven-textures-plastic-and-rubber"
+     ],
+     "page": "topics/other-surfaces.md",
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/polyhaven-textures-paper-and-card/main/previews/decrepit_wallpaper.webp"
+    }
+   ]
+  },
+  {
+   "slug": "overlays",
+   "title": "\ud83e\ude79 Decals and atlases",
+   "topics": [
+    {
+     "slug": "decals",
+     "title": "Decals",
+     "about": "Road markings, leaks, manhole covers and other things to lay on a surface",
+     "assets": 127,
+     "here": 127,
+     "sources": [
+      "ambientCG"
+     ],
+     "repos": [
+      "ambientcg-decals",
+      "ambientcg-decals-2"
+     ],
+     "page": "topics/decals.md",
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/ambientcg-decals/main/previews/Leaking019B.png"
+    },
+    {
+     "slug": "atlases",
+     "title": "Atlases and brushes",
+     "about": "Sheets of leaves, foliage, tape and small objects with transparency",
+     "assets": 65,
+     "here": 65,
+     "sources": [
+      "ambientCG"
+     ],
+     "repos": [
+      "ambientcg-atlases",
+      "ambientcg-atlases-2",
+      "ambientcg-brushes"
+     ],
+     "page": "topics/atlases.md",
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/ambientcg-atlases/main/previews/GraffitiSet001.png"
+    }
+   ]
+  },
+  {
+   "slug": "skies",
+   "title": "\ud83c\udf05 HDRI skies and scenes",
+   "topics": [
+    {
+     "slug": "sky-day",
+     "title": "Daytime skies",
+     "about": "Clear and cloudy skies by day and in the morning",
+     "assets": 231,
+     "here": 231,
+     "sources": [
+      "Poly Haven",
+      "ambientCG"
+     ],
+     "repos": [
+      "ambientcg-hdris-2",
+      "ambientcg-hdris-3",
+      "ambientcg-hdris-4",
+      "ambientcg-hdris-6",
+      "polyhaven-hdris-pure-skies"
+     ],
+     "page": "topics/sky-day.md",
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/ambientcg-hdris-3/main/previews/DaySkyHDRI037A.png"
+    },
+    {
+     "slug": "sky-night",
+     "title": "Sunset and night",
+     "about": "Evening, sunset and night skies and scenes",
+     "assets": 131,
+     "here": 131,
+     "sources": [
+      "ambientCG"
+     ],
+     "repos": [
+      "ambientcg-hdris-4",
+      "ambientcg-hdris-5",
+      "ambientcg-hdris-6"
+     ],
+     "page": "topics/sky-night.md",
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/ambientcg-hdris-5/main/previews/EveningSkyHDRI020A.png"
+    },
+    {
+     "slug": "scene-nature",
+     "title": "Countryside and nature",
+     "about": "Fields, forests, mountains, parks, coasts and deserts",
+     "assets": 459,
+     "here": 459,
+     "sources": [
+      "Poly Haven"
+     ],
+     "repos": [
+      "polyhaven-hdris-coast-and-water",
+      "polyhaven-hdris-desert-and-arid",
+      "polyhaven-hdris-fields-and-countryside",
+      "polyhaven-hdris-forest-and-woodland",
+      "polyhaven-hdris-mountains-and-hills",
+      "polyhaven-hdris-parks-and-gardens"
+     ],
+     "page": "topics/scene-nature.md",
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/polyhaven-hdris-parks-and-gardens/main/previews/greenwich_park_03.webp"
+    },
+    {
+     "slug": "scene-town",
+     "title": "Towns and industry",
+     "about": "Streets, towns, industrial sites and ruins",
+     "assets": 241,
+     "here": 241,
+     "sources": [
+      "Poly Haven"
+     ],
+     "repos": [
+      "polyhaven-hdris-abandoned-and-ruins",
+      "polyhaven-hdris-industrial",
+      "polyhaven-hdris-streets-and-town",
+      "polyhaven-hdris-streets-and-town-2"
+     ],
+     "page": "topics/scene-town.md",
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/polyhaven-hdris-streets-and-town/main/previews/georgentor.webp"
+    },
+    {
+     "slug": "scene-outdoor",
+     "title": "Other outdoor scenes",
+     "about": "Outdoor environments by day",
+     "assets": 118,
+     "here": 118,
+     "sources": [
+      "ambientCG"
+     ],
+     "repos": [
+      "ambientcg-hdri-elements",
+      "ambientcg-hdris",
+      "ambientcg-hdris-2"
+     ],
+     "page": "topics/scene-outdoor.md",
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/ambientcg-hdris/main/previews/DayEnvironmentHDRI040.png"
+    },
+    {
+     "slug": "scene-indoor",
+     "title": "Interiors and studios",
+     "about": "Rooms, halls and photo studios for lighting objects",
+     "assets": 263,
+     "here": 263,
+     "sources": [
+      "Poly Haven",
+      "ambientCG"
+     ],
+     "repos": [
+      "ambientcg-hdris-5",
+      "ambientcg-hdris-6",
+      "polyhaven-hdris-interiors",
+      "polyhaven-hdris-interiors-2",
+      "polyhaven-hdris-studio"
+     ],
+     "page": "topics/scene-indoor.md",
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/polyhaven-hdris-interiors/main/previews/gym_entrance.webp"
+    }
+   ]
+  },
+  {
+   "slug": "models",
+   "title": "\ud83e\ude91 3D models",
+   "topics": [
+    {
+     "slug": "furniture",
+     "title": "Furniture, decor and lights",
+     "about": "Chairs, tables, shelves, ornaments and lamps",
+     "assets": 151,
+     "here": 151,
+     "sources": [
+      "Poly Haven"
+     ],
+     "repos": [
+      "polyhaven-models-decor-and-art",
+      "polyhaven-models-furniture",
+      "polyhaven-models-lighting"
+     ],
+     "page": "topics/furniture.md",
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/polyhaven-models-furniture/main/previews/GothicCabinet_01.webp"
+    },
+    {
+     "slug": "nature-models",
+     "title": "Plants, rocks and nature",
+     "about": "Trees, plants, rocks, logs and stumps",
+     "assets": 103,
+     "here": 101,
+     "sources": [
+      "Poly Haven",
+      "ambientCG"
+     ],
+     "repos": [
+      "ambientcg-models",
+      "polyhaven-models-nature",
+      "polyhaven-models-nature-2",
+      "polyhaven-models-nature-3",
+      "polyhaven-models-nature-4",
+      "polyhaven-models-nature-5"
+     ],
+     "page": "topics/nature-models.md",
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/polyhaven-models-nature-2/main/previews/flower_gazania.webp"
+    },
+    {
+     "slug": "food",
+     "title": "Food and kitchen",
+     "about": "Fruit, bread, cakes, dishes and kitchen things",
+     "assets": 67,
+     "here": 35,
+     "sources": [
+      "Poly Haven",
+      "ambientCG"
+     ],
+     "repos": [
+      "ambientcg-models",
+      "polyhaven-models-food-and-kitchen"
+     ],
+     "page": "topics/food.md",
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/polyhaven-models-food-and-kitchen/main/previews/food_ginger_01.webp"
+    },
+    {
+     "slug": "tools",
+     "title": "Tools and weapons",
+     "about": "Hand tools, equipment and weapons",
+     "assets": 65,
+     "here": 52,
+     "sources": [
+      "Poly Haven"
+     ],
+     "repos": [
+      "polyhaven-models-tools-and-equipment",
+      "polyhaven-models-weapons"
+     ],
+     "page": "topics/tools.md",
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/polyhaven-models-tools-and-equipment/main/previews/measuring_tape_01.webp"
+    },
+    {
+     "slug": "vehicles",
+     "title": "Vehicles",
+     "about": "Cars, boats and other transport",
+     "assets": 11,
+     "here": 11,
+     "sources": [
+      "Poly Haven"
+     ],
+     "repos": [
+      "polyhaven-models-vehicles-and-transport"
+     ],
+     "page": "topics/vehicles.md",
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/polyhaven-models-vehicles-and-transport/main/previews/dutch_ship_medium.webp"
+    },
+    {
+     "slug": "buildings",
+     "title": "Buildings and industry",
+     "about": "Architecture, industrial and infrastructure pieces",
+     "assets": 37,
+     "here": 37,
+     "sources": [
+      "Poly Haven"
+     ],
+     "repos": [
+      "polyhaven-models-architecture",
+      "polyhaven-models-industrial-and-infrastructure"
+     ],
+     "page": "topics/buildings.md",
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/polyhaven-models-industrial-and-infrastructure/main/previews/modular_electric_cables.webp"
+    },
+    {
+     "slug": "objects",
+     "title": "Everyday objects",
+     "about": "Clothing, containers, electronics, office and leisure things",
+     "assets": 122,
+     "here": 122,
+     "sources": [
+      "Poly Haven"
+     ],
+     "repos": [
+      "polyhaven-models-apparel-and-personal-items",
+      "polyhaven-models-containers-and-storage",
+      "polyhaven-models-electronics-and-appliances",
+      "polyhaven-models-leisure",
+      "polyhaven-models-office-and-stationery"
+     ],
+     "page": "topics/objects.md",
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/polyhaven-models-electronics-and-appliances/main/previews/filmstrip_projector_8mm.webp"
+    }
+   ]
+  }
+ ],
+ "assets": 5325,
+ "here": 3508
+}
