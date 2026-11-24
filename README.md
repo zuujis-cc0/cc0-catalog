@@ -2,27 +2,27 @@
 
 **Every asset mirrored in [zuujis-cc0](https://github.com/zuujis-cc0), grouped by what it is.** 5,325 assets from Poly Haven, ambientCG, all public domain under [CC0](https://creativecommons.org/publicdomain/zero/1.0/): use them in any game, free or paid, no credit needed.
 
-Each topic page shows every asset with a picture; click one to open its folder, where every file can be opened and saved on its own. The mirror repositories fill themselves, so a few assets may still be arriving. Updated every day from [cc0-mirror](https://github.com/zuujis-cc0/cc0-mirror) (last: 2026-11-23).
+Each topic page shows every asset with a picture; click one to open its folder, where every file can be opened and saved on its own. The mirror repositories fill themselves, so a few assets may still be arriving. Updated every day from [cc0-mirror](https://github.com/zuujis-cc0/cc0-mirror) (last: 2026-11-24).
 
 ## 🧱 Textures and materials
 
 <table>
 <tr>
-<td align="center" valign="top" width="25%"><a href="topics/wood.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/polyhaven-textures-wood-2/main/previews/metasequoia_bark.webp" width="140" alt=""></a><br><b><a href="topics/wood.md">Wood</a></b><br><sub>526 assets · Poly Haven, ambientCG</sub></td>
-<td align="center" valign="top" width="25%"><a href="topics/brick.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/ambientcg-materials-bricks-3/main/previews/Bricks071.png" width="140" alt=""></a><br><b><a href="topics/brick.md">Brick and block</a></b><br><sub>302 assets · Poly Haven, ambientCG</sub></td>
-<td align="center" valign="top" width="25%"><a href="topics/stone.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/polyhaven-textures-stone-2/main/previews/granite_tile_03.webp" width="140" alt=""></a><br><b><a href="topics/stone.md">Stone and rock</a></b><br><sub>353 assets · Poly Haven, ambientCG</sub></td>
-<td align="center" valign="top" width="25%"><a href="topics/paving.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/ambientcg-materials-asphalt/main/previews/Asphalt020L.png" width="140" alt=""></a><br><b><a href="topics/paving.md">Roads and paving</a></b><br><sub>283 assets · Poly Haven, ambientCG</sub></td>
+<td align="center" valign="top" width="25%"><a href="topics/wood.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/ambientcg-materials-planks/main/previews/Planks002.png" width="140" alt=""></a><br><b><a href="topics/wood.md">Wood</a></b><br><sub>526 assets · Poly Haven, ambientCG</sub></td>
+<td align="center" valign="top" width="25%"><a href="topics/brick.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/ambientcg-materials-bricks-4/main/previews/Bricks073C.png" width="140" alt=""></a><br><b><a href="topics/brick.md">Brick and block</a></b><br><sub>302 assets · Poly Haven, ambientCG</sub></td>
+<td align="center" valign="top" width="25%"><a href="topics/stone.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/polyhaven-textures-stone-2/main/previews/mossy_stone_wall.webp" width="140" alt=""></a><br><b><a href="topics/stone.md">Stone and rock</a></b><br><sub>353 assets · Poly Haven, ambientCG</sub></td>
+<td align="center" valign="top" width="25%"><a href="topics/paving.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/ambientcg-materials-paving-stones-2/main/previews/PavingStones025.png" width="140" alt=""></a><br><b><a href="topics/paving.md">Roads and paving</a></b><br><sub>283 assets · Poly Haven, ambientCG</sub></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="25%"><a href="topics/tiles.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/polyhaven-textures-ceramic/main/previews/grey_roof_01.webp" width="140" alt=""></a><br><b><a href="topics/tiles.md">Tiles and roofing</a></b><br><sub>251 assets · Poly Haven, ambientCG</sub></td>
-<td align="center" valign="top" width="25%"><a href="topics/walls.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/ambientcg-materials-concrete-3/main/previews/Concrete044A.png" width="140" alt=""></a><br><b><a href="topics/walls.md">Concrete, plaster and walls</a></b><br><sub>267 assets · Poly Haven, ambientCG</sub></td>
-<td align="center" valign="top" width="25%"><a href="topics/ground.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/ambientcg-materials-gravel/main/previews/Gravel011.png" width="140" alt=""></a><br><b><a href="topics/ground.md">Ground, grass and snow</a></b><br><sub>411 assets · Poly Haven, ambientCG</sub></td>
-<td align="center" valign="top" width="25%"><a href="topics/metal.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/ambientcg-materials-corrugated-steel/main/previews/CorrugatedSteel009.png" width="140" alt=""></a><br><b><a href="topics/metal.md">Metal</a></b><br><sub>290 assets · Poly Haven, ambientCG</sub></td>
+<td align="center" valign="top" width="25%"><a href="topics/tiles.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/ambientcg-materials-tiles/main/previews/Tiles016.png" width="140" alt=""></a><br><b><a href="topics/tiles.md">Tiles and roofing</a></b><br><sub>251 assets · Poly Haven, ambientCG</sub></td>
+<td align="center" valign="top" width="25%"><a href="topics/walls.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/polyhaven-textures-concrete/main/previews/concrete_floor_worn_02.webp" width="140" alt=""></a><br><b><a href="topics/walls.md">Concrete, plaster and walls</a></b><br><sub>267 assets · Poly Haven, ambientCG</sub></td>
+<td align="center" valign="top" width="25%"><a href="topics/ground.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/ambientcg-substances/main/previews/GravelSubstance002.png" width="140" alt=""></a><br><b><a href="topics/ground.md">Ground, grass and snow</a></b><br><sub>411 assets · Poly Haven, ambientCG</sub></td>
+<td align="center" valign="top" width="25%"><a href="topics/metal.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/ambientcg-materials-metal/main/previews/Metal024.png" width="140" alt=""></a><br><b><a href="topics/metal.md">Metal</a></b><br><sub>290 assets · Poly Haven, ambientCG</sub></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="25%"><a href="topics/fabric.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/ambientcg-materials-fabric/main/previews/Fabric019.png" width="140" alt=""></a><br><b><a href="topics/fabric.md">Fabric and leather</a></b><br><sub>252 assets · Poly Haven, ambientCG</sub></td>
-<td align="center" valign="top" width="25%"><b><a href="topics/wear.md">Dirt, scratches and wear</a></b><br><sub>66 assets · ambientCG</sub></td>
-<td align="center" valign="top" width="25%"><a href="topics/other-surfaces.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/polyhaven-textures-paper-and-card/main/previews/decrepit_wallpaper.webp" width="140" alt=""></a><br><b><a href="topics/other-surfaces.md">Plastic, paper and more</a></b><br><sub>133 assets · Poly Haven, ambientCG</sub></td>
+<td align="center" valign="top" width="25%"><a href="topics/fabric.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/ambientcg-materials-fabric-3/main/previews/Fabric052.png" width="140" alt=""></a><br><b><a href="topics/fabric.md">Fabric and leather</a></b><br><sub>252 assets · Poly Haven, ambientCG</sub></td>
+<td align="center" valign="top" width="25%"><a href="topics/wear.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/ambientcg-materials-more-3/main/previews/Footsteps005.png" width="140" alt=""></a><br><b><a href="topics/wear.md">Dirt, scratches and wear</a></b><br><sub>66 assets · ambientCG</sub></td>
+<td align="center" valign="top" width="25%"><a href="topics/other-surfaces.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/ambientcg-materials-more-5/main/previews/Paper006.png" width="140" alt=""></a><br><b><a href="topics/other-surfaces.md">Plastic, paper and more</a></b><br><sub>133 assets · Poly Haven, ambientCG</sub></td>
 </tr>
 </table>
 
@@ -55,8 +55,8 @@ Each topic page shows every asset with a picture; click one to open its folder, 
 <table>
 <tr>
 <td align="center" valign="top" width="25%"><a href="topics/furniture.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/polyhaven-models-furniture/main/previews/GothicCabinet_01.webp" width="140" alt=""></a><br><b><a href="topics/furniture.md">Furniture, decor and lights</a></b><br><sub>151 assets · Poly Haven</sub></td>
-<td align="center" valign="top" width="25%"><a href="topics/nature-models.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/polyhaven-models-nature-2/main/previews/flower_gazania.webp" width="140" alt=""></a><br><b><a href="topics/nature-models.md">Plants, rocks and nature</a></b><br><sub>103 assets · Poly Haven, ambientCG</sub></td>
-<td align="center" valign="top" width="25%"><a href="topics/food.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/polyhaven-models-food-and-kitchen/main/previews/food_ginger_01.webp" width="140" alt=""></a><br><b><a href="topics/food.md">Food and kitchen</a></b><br><sub>67 assets · Poly Haven, ambientCG</sub></td>
+<td align="center" valign="top" width="25%"><a href="topics/nature-models.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/polyhaven-models-nature-2/main/previews/flower_empodium.webp" width="140" alt=""></a><br><b><a href="topics/nature-models.md">Plants, rocks and nature</a></b><br><sub>103 assets · Poly Haven, ambientCG</sub></td>
+<td align="center" valign="top" width="25%"><a href="topics/food.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/ambientcg-models/main/previews/3DLemon001.png" width="140" alt=""></a><br><b><a href="topics/food.md">Food and kitchen</a></b><br><sub>67 assets · Poly Haven, ambientCG</sub></td>
 <td align="center" valign="top" width="25%"><a href="topics/tools.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/polyhaven-models-tools-and-equipment/main/previews/measuring_tape_01.webp" width="140" alt=""></a><br><b><a href="topics/tools.md">Tools and weapons</a></b><br><sub>65 assets · Poly Haven</sub></td>
 </tr>
 <tr>
@@ -70,8 +70,8 @@ Each topic page shows every asset with a picture; click one to open its folder, 
 
 | Source | Assets | Repositories | Filled |
 | --- | --: | --: | --: |
-| [Poly Haven](https://github.com/orgs/zuujis-cc0/repositories?q=polyhaven-) | 2,392 | 64 | 61 |
-| [ambientCG](https://github.com/orgs/zuujis-cc0/repositories?q=ambientcg-) | 2,933 | 108 | 44 |
+| [Poly Haven](https://github.com/orgs/zuujis-cc0/repositories?q=polyhaven-) | 2,392 | 64 | 63 |
+| [ambientCG](https://github.com/orgs/zuujis-cc0/repositories?q=ambientcg-) | 2,933 | 108 | 107 |
 
 ---
 

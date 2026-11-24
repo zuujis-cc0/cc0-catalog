@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23",
+ "updated": "2026-11-24",
  "org": "zuujis-cc0",
  "sections": [
   {
@@ -11,7 +11,7 @@
      "title": "Wood",
      "about": "Planks, floors, bark, bamboo, painted and raw wood",
      "assets": 526,
-     "here": 128,
+     "here": 526,
      "sources": [
       "Poly Haven",
       "ambientCG"
@@ -45,14 +45,14 @@
       "polyhaven-textures-wood-4"
      ],
      "page": "topics/wood.md",
-     "picture": "https://raw.githubusercontent.com/zuujis-cc0/polyhaven-textures-wood-2/main/previews/metasequoia_bark.webp"
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/ambientcg-materials-planks/main/previews/Planks002.png"
     },
     {
      "slug": "brick",
      "title": "Brick and block",
      "about": "Brick walls, blocks and painted brick",
      "assets": 302,
-     "here": 288,
+     "here": 302,
      "sources": [
       "Poly Haven",
       "ambientCG"
@@ -72,14 +72,14 @@
       "polyhaven-textures-brick-and-block-4"
      ],
      "page": "topics/brick.md",
-     "picture": "https://raw.githubusercontent.com/zuujis-cc0/ambientcg-materials-bricks-3/main/previews/Bricks071.png"
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/ambientcg-materials-bricks-4/main/previews/Bricks073C.png"
     },
     {
      "slug": "stone",
      "title": "Stone and rock",
      "about": "Rock faces, cobbles, marble, granite and terrazzo",
      "assets": 353,
-     "here": 173,
+     "here": 353,
      "sources": [
       "Poly Haven",
       "ambientCG"
@@ -104,14 +104,14 @@
       "polyhaven-textures-stone-5"
      ],
      "page": "topics/stone.md",
-     "picture": "https://raw.githubusercontent.com/zuujis-cc0/polyhaven-textures-stone-2/main/previews/granite_tile_03.webp"
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/polyhaven-textures-stone-2/main/previews/mossy_stone_wall.webp"
     },
     {
      "slug": "paving",
      "title": "Roads and paving",
      "about": "Asphalt, roads, paving stones and paths",
      "assets": 283,
-     "here": 68,
+     "here": 283,
      "sources": [
       "Poly Haven",
       "ambientCG"
@@ -135,14 +135,14 @@
       "polyhaven-textures-asphalt-and-bitumen"
      ],
      "page": "topics/paving.md",
-     "picture": "https://raw.githubusercontent.com/zuujis-cc0/ambientcg-materials-asphalt/main/previews/Asphalt020L.png"
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/ambientcg-materials-paving-stones-2/main/previews/PavingStones025.png"
     },
     {
      "slug": "tiles",
      "title": "Tiles and roofing",
      "about": "Floor and wall tiles, ceramics and roof tiles",
      "assets": 251,
-     "here": 26,
+     "here": 251,
      "sources": [
       "Poly Haven",
       "ambientCG"
@@ -161,14 +161,14 @@
       "polyhaven-textures-ceramic"
      ],
      "page": "topics/tiles.md",
-     "picture": "https://raw.githubusercontent.com/zuujis-cc0/polyhaven-textures-ceramic/main/previews/grey_roof_01.webp"
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/ambientcg-materials-tiles/main/previews/Tiles016.png"
     },
     {
      "slug": "walls",
      "title": "Concrete, plaster and walls",
      "about": "Concrete, plaster, facades and wallpaper",
      "assets": 267,
-     "here": 215,
+     "here": 267,
      "sources": [
       "Poly Haven",
       "ambientCG"
@@ -190,14 +190,14 @@
       "polyhaven-textures-concrete-4"
      ],
      "page": "topics/walls.md",
-     "picture": "https://raw.githubusercontent.com/zuujis-cc0/ambientcg-materials-concrete-3/main/previews/Concrete044A.png"
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/polyhaven-textures-concrete/main/previews/concrete_floor_worn_02.webp"
     },
     {
      "slug": "ground",
      "title": "Ground, grass and snow",
      "about": "Soil, gravel, grass, moss, sand, snow, ice and lava",
      "assets": 411,
-     "here": 243,
+     "here": 406,
      "sources": [
       "Poly Haven",
       "ambientCG"
@@ -228,14 +228,14 @@
       "polyhaven-textures-organic"
      ],
      "page": "topics/ground.md",
-     "picture": "https://raw.githubusercontent.com/zuujis-cc0/ambientcg-materials-gravel/main/previews/Gravel011.png"
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/ambientcg-substances/main/previews/GravelSubstance002.png"
     },
     {
      "slug": "metal",
      "title": "Metal",
      "about": "Plates, sheet metal, rust, grates, fences and painted metal",
      "assets": 290,
-     "here": 62,
+     "here": 290,
      "sources": [
       "Poly Haven",
       "ambientCG"
@@ -260,14 +260,14 @@
       "polyhaven-textures-metal"
      ],
      "page": "topics/metal.md",
-     "picture": "https://raw.githubusercontent.com/zuujis-cc0/ambientcg-materials-corrugated-steel/main/previews/CorrugatedSteel009.png"
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/ambientcg-materials-metal/main/previews/Metal024.png"
     },
     {
      "slug": "fabric",
      "title": "Fabric and leather",
      "about": "Cloth, carpet, leather, wicker and rope",
      "assets": 252,
-     "here": 150,
+     "here": 252,
      "sources": [
       "Poly Haven",
       "ambientCG"
@@ -289,14 +289,14 @@
       "polyhaven-textures-textiles-and-leather-3"
      ],
      "page": "topics/fabric.md",
-     "picture": "https://raw.githubusercontent.com/zuujis-cc0/ambientcg-materials-fabric/main/previews/Fabric019.png"
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/ambientcg-materials-fabric-3/main/previews/Fabric052.png"
     },
     {
      "slug": "wear",
      "title": "Dirt, scratches and wear",
      "about": "Fingerprints, smears, scratches, leaks and other imperfections",
      "assets": 66,
-     "here": 0,
+     "here": 66,
      "sources": [
       "ambientCG"
      ],
@@ -309,14 +309,14 @@
       "ambientcg-substances"
      ],
      "page": "topics/wear.md",
-     "picture": null
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/ambientcg-materials-more-3/main/previews/Footsteps005.png"
     },
     {
      "slug": "other-surfaces",
      "title": "Plastic, paper and more",
      "about": "Plastic, paper, cardboard, foam, food and everything else",
      "assets": 133,
-     "here": 11,
+     "here": 133,
      "sources": [
       "Poly Haven",
       "ambientCG"
@@ -335,7 +335,7 @@
       "polyhaven-textures-plastic-and-rubber"
      ],
      "page": "topics/other-surfaces.md",
-     "picture": "https://raw.githubusercontent.com/zuujis-cc0/polyhaven-textures-paper-and-card/main/previews/decrepit_wallpaper.webp"
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/ambientcg-materials-more-5/main/previews/Paper006.png"
     }
    ]
   },
@@ -522,7 +522,7 @@
      "title": "Plants, rocks and nature",
      "about": "Trees, plants, rocks, logs and stumps",
      "assets": 103,
-     "here": 101,
+     "here": 103,
      "sources": [
       "Poly Haven",
       "ambientCG"
@@ -536,14 +536,14 @@
       "polyhaven-models-nature-5"
      ],
      "page": "topics/nature-models.md",
-     "picture": "https://raw.githubusercontent.com/zuujis-cc0/polyhaven-models-nature-2/main/previews/flower_gazania.webp"
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/polyhaven-models-nature-2/main/previews/flower_empodium.webp"
     },
     {
      "slug": "food",
      "title": "Food and kitchen",
      "about": "Fruit, bread, cakes, dishes and kitchen things",
      "assets": 67,
-     "here": 35,
+     "here": 67,
      "sources": [
       "Poly Haven",
       "ambientCG"
@@ -553,7 +553,7 @@
       "polyhaven-models-food-and-kitchen"
      ],
      "page": "topics/food.md",
-     "picture": "https://raw.githubusercontent.com/zuujis-cc0/polyhaven-models-food-and-kitchen/main/previews/food_ginger_01.webp"
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/ambientcg-models/main/previews/3DLemon001.png"
     },
     {
      "slug": "tools",
@@ -625,5 +625,5 @@
   }
  ],
  "assets": 5325,
- "here": 3508
+ "here": 5307
 }
