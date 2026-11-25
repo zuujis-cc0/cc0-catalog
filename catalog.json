@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24",
+ "updated": "2026-11-25",
  "org": "zuujis-cc0",
  "sections": [
   {
@@ -622,8 +622,144 @@
      "picture": "https://raw.githubusercontent.com/zuujis-cc0/polyhaven-models-electronics-and-appliances/main/previews/filmstrip_projector_8mm.webp"
     }
    ]
+  },
+  {
+   "slug": "game-art",
+   "title": "\ud83c\udfae Game art",
+   "topics": [
+    {
+     "slug": "art-2d",
+     "title": "2D art and sprites",
+     "about": "Sprites, tiles, interfaces and backgrounds",
+     "assets": 619,
+     "here": 619,
+     "sources": [
+      "OpenGameArt"
+     ],
+     "repos": [
+      "opengameart-2d-art",
+      "opengameart-2d-art-2",
+      "opengameart-2d-art-3",
+      "opengameart-kenney-2d-art"
+     ],
+     "page": "topics/art-2d.md",
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/opengameart-2d-art/main/previews/gate-1.png"
+    },
+    {
+     "slug": "art-3d",
+     "title": "3D game art",
+     "about": "Game-ready models and packs",
+     "assets": 273,
+     "here": 107,
+     "sources": [
+      "OpenGameArt"
+     ],
+     "repos": [
+      "opengameart-3d-art",
+      "opengameart-3d-art-2",
+      "opengameart-3d-art-3",
+      "opengameart-kenney-3d-art",
+      "opengameart-quaternius-3d-art",
+      "opengameart-quaternius-3d-art-2"
+     ],
+     "page": "topics/art-3d.md",
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/opengameart-3d-art/main/previews/box-with-different-colors.png"
+    },
+    {
+     "slug": "game-textures",
+     "title": "Game textures",
+     "about": "Textures made for games",
+     "assets": 95,
+     "here": 0,
+     "sources": [
+      "OpenGameArt"
+     ],
+     "repos": [
+      "opengameart-kenney-texture",
+      "opengameart-texture",
+      "opengameart-texture-2",
+      "opengameart-texture-3",
+      "opengameart-texture-4"
+     ],
+     "page": "topics/game-textures.md",
+     "picture": null
+    },
+    {
+     "slug": "music",
+     "title": "Music",
+     "about": "Songs and loops",
+     "assets": 459,
+     "here": 0,
+     "sources": [
+      "OpenGameArt"
+     ],
+     "repos": [
+      "opengameart-music",
+      "opengameart-music-10",
+      "opengameart-music-2",
+      "opengameart-music-3",
+      "opengameart-music-4",
+      "opengameart-music-5",
+      "opengameart-music-6",
+      "opengameart-music-7",
+      "opengameart-music-8",
+      "opengameart-music-9"
+     ],
+     "page": "topics/music.md",
+     "picture": null
+    },
+    {
+     "slug": "sounds",
+     "title": "Sound effects",
+     "about": "Effects for games",
+     "assets": 68,
+     "here": 9,
+     "sources": [
+      "OpenGameArt"
+     ],
+     "repos": [
+      "opengameart-kenney-sound-effect",
+      "opengameart-sound-effect",
+      "opengameart-sound-effect-2",
+      "opengameart-sound-effect-3"
+     ],
+     "page": "topics/sounds.md",
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/opengameart-kenney-sound-effect/main/previews/63-digital-sound-effects-lasers-phasers-space-etc.png"
+    },
+    {
+     "slug": "concept",
+     "title": "Concept art",
+     "about": "Sketches and concept pieces",
+     "assets": 10,
+     "here": 10,
+     "sources": [
+      "OpenGameArt"
+     ],
+     "repos": [
+      "opengameart-concept-art"
+     ],
+     "page": "topics/concept.md",
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/opengameart-concept-art/main/previews/libbie-the-cyber-oryx.jpg"
+    },
+    {
+     "slug": "game-other",
+     "title": "Other game assets",
+     "about": "Documents, fonts and everything else",
+     "assets": 6,
+     "here": 4,
+     "sources": [
+      "OpenGameArt"
+     ],
+     "repos": [
+      "opengameart-document",
+      "opengameart-kenney-document"
+     ],
+     "page": "topics/game-other.md",
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/opengameart-document/main/previews/ggbotnet-fonts-cc0-all-in-1.png"
+    }
+   ]
   }
  ],
- "assets": 5325,
- "here": 5307
+ "assets": 6855,
+ "here": 6056
 }

@@ -1,8 +1,8 @@
 # CC0 catalogue
 
-**Every asset mirrored in [zuujis-cc0](https://github.com/zuujis-cc0), grouped by what it is.** 5,325 assets from Poly Haven, ambientCG, all public domain under [CC0](https://creativecommons.org/publicdomain/zero/1.0/): use them in any game, free or paid, no credit needed.
+**Every asset mirrored in [zuujis-cc0](https://github.com/zuujis-cc0), grouped by what it is.** 6,855 assets from Poly Haven, ambientCG, OpenGameArt, all public domain under [CC0](https://creativecommons.org/publicdomain/zero/1.0/): use them in any game, free or paid, no credit needed.
 
-Each topic page shows every asset with a picture; click one to open its folder, where every file can be opened and saved on its own. The mirror repositories fill themselves, so a few assets may still be arriving. Updated every day from [cc0-mirror](https://github.com/zuujis-cc0/cc0-mirror) (last: 2026-11-24).
+Each topic page shows every asset with a picture; click one to open its folder, where every file can be opened and saved on its own. The mirror repositories fill themselves, so a few assets may still be arriving. Updated every day from [cc0-mirror](https://github.com/zuujis-cc0/cc0-mirror) (last: 2026-11-25).
 
 ## 🧱 Textures and materials
 
@@ -66,12 +66,29 @@ Each topic page shows every asset with a picture; click one to open its folder, 
 </tr>
 </table>
 
+## 🎮 Game art
+
+<table>
+<tr>
+<td align="center" valign="top" width="25%"><a href="topics/art-2d.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/opengameart-2d-art/main/previews/gate-1.png" width="140" alt=""></a><br><b><a href="topics/art-2d.md">2D art and sprites</a></b><br><sub>619 assets · OpenGameArt</sub></td>
+<td align="center" valign="top" width="25%"><a href="topics/art-3d.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/opengameart-3d-art/main/previews/box-with-different-colors.png" width="140" alt=""></a><br><b><a href="topics/art-3d.md">3D game art</a></b><br><sub>273 assets · OpenGameArt</sub></td>
+<td align="center" valign="top" width="25%"><b><a href="topics/game-textures.md">Game textures</a></b><br><sub>95 assets · OpenGameArt</sub></td>
+<td align="center" valign="top" width="25%"><b><a href="topics/music.md">Music</a></b><br><sub>459 assets · OpenGameArt</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="25%"><a href="topics/sounds.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/opengameart-kenney-sound-effect/main/previews/63-digital-sound-effects-lasers-phasers-space-etc.png" width="140" alt=""></a><br><b><a href="topics/sounds.md">Sound effects</a></b><br><sub>68 assets · OpenGameArt</sub></td>
+<td align="center" valign="top" width="25%"><a href="topics/concept.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/opengameart-concept-art/main/previews/libbie-the-cyber-oryx.jpg" width="140" alt=""></a><br><b><a href="topics/concept.md">Concept art</a></b><br><sub>10 assets · OpenGameArt</sub></td>
+<td align="center" valign="top" width="25%"><a href="topics/game-other.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/opengameart-document/main/previews/ggbotnet-fonts-cc0-all-in-1.png" width="140" alt=""></a><br><b><a href="topics/game-other.md">Other game assets</a></b><br><sub>6 assets · OpenGameArt</sub></td>
+</tr>
+</table>
+
 ## By source
 
 | Source | Assets | Repositories | Filled |
 | --- | --: | --: | --: |
 | [Poly Haven](https://github.com/orgs/zuujis-cc0/repositories?q=polyhaven-) | 2,392 | 64 | 63 |
 | [ambientCG](https://github.com/orgs/zuujis-cc0/repositories?q=ambientcg-) | 2,933 | 108 | 107 |
+| [OpenGameArt](https://github.com/orgs/zuujis-cc0/repositories?q=opengameart-) | 1,530 | 32 | 9 |
 
 ---
 
