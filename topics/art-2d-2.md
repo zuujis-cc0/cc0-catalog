@@ -1,8 +1,8 @@
 # 2D art and sprites
 
-Sprites, tiles, interfaces and backgrounds. **619 assets** from OpenGameArt.
+Sprites, tiles, interfaces and backgrounds. **1,114 assets** from OpenGameArt, 495 still arriving.
 
-[← All topics](../README.md) · Page [1](art-2d.md) · **2** · [3](art-2d-3.md)
+[← All topics](../README.md) · Page [1](art-2d.md) · **2** · [3](art-2d-3.md) · [4](art-2d-4.md) · [5](art-2d-5.md)
 
 <table>
 <tr>
@@ -327,7 +327,7 @@ Sprites, tiles, interfaces and backgrounds. **619 assets** from OpenGameArt.
 </tr>
 </table>
 
-Page [1](art-2d.md) · **2** · [3](art-2d-3.md)
+Page [1](art-2d.md) · **2** · [3](art-2d-3.md) · [4](art-2d-4.md) · [5](art-2d-5.md)
 
 ---
 

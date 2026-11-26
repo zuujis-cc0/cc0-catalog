@@ -1,8 +1,8 @@
 # 2D art and sprites
 
-Sprites, tiles, interfaces and backgrounds. **619 assets** from OpenGameArt.
+Sprites, tiles, interfaces and backgrounds. **1,114 assets** from OpenGameArt, 495 still arriving.
 
-[← All topics](../README.md) · Page [1](art-2d.md) · [2](art-2d-2.md) · **3**
+[← All topics](../README.md) · Page [1](art-2d.md) · [2](art-2d-2.md) · **3** · [4](art-2d-4.md) · [5](art-2d-5.md)
 
 <table>
 <tr>
@@ -191,10 +191,143 @@ Sprites, tiles, interfaces and backgrounds. **619 assets** from OpenGameArt.
 </tr>
 <tr>
 <td align="center" valign="top" width="16%"><a href="https://github.com/zuujis-cc0/opengameart-2d-art-3/tree/main/yellow-spring"><img src="https://raw.githubusercontent.com/zuujis-cc0/opengameart-2d-art-3/main/previews/yellow-spring.gif" width="120" alt="Yellow spring"></a><br><sub><a href="https://github.com/zuujis-cc0/opengameart-2d-art-3/tree/main/yellow-spring">Yellow spring</a> · <a href="https://opengameart.org/content/yellow-spring">OpenGameArt</a></sub></td>
+<td align="center" valign="top" width="16%"><sub>&quot;!&quot; HUD · <a href="https://opengameart.org/content/hud">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>1-Bit Doomcrypt Kit · <a href="https://opengameart.org/content/1-bit-doomcrypt-kit">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>1-Bit Doomgeon Kit · <a href="https://opengameart.org/content/1-bit-doomgeon-kit">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>1-Bit Doomhold Kit · <a href="https://opengameart.org/content/1-bit-doomhold-kit">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>1-Bit Doomland Kit · <a href="https://opengameart.org/content/1-bit-doomland-kit">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16%"><sub>1-Bit Doomsphere Charset · <a href="https://opengameart.org/content/1-bit-doomsphere-charset">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>1-Bit Graveyard Pixel Art Asset Pack · <a href="https://opengameart.org/content/1-bit-graveyard-pixel-art-asset-pack">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>16 x 16 Monster Items · <a href="https://opengameart.org/content/16-x-16-monster-items">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>16*16 27 types of animals + 32*32 3 types of animals, for a total of 97. · <a href="https://opengameart.org/content/1616-27-types-of-animals-3232-3-types-of-animals-for-a-total-of-97">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>16bit Pixel Art SpaceShips · <a href="https://opengameart.org/content/16bit-pixel-art-spaceships">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>16x Turkeys · <a href="https://opengameart.org/content/16x-turkeys">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16%"><sub>16x16 Block Texture Set · <a href="https://opengameart.org/content/16x16-block-texture-set">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>16x16 Coin Animated · <a href="https://opengameart.org/content/16x16-coin-animated">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>16x16 Explosion · <a href="https://opengameart.org/content/16x16-explosion">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>16x16 Fantasy RPG Trash Mobs (animated) · <a href="https://opengameart.org/content/16x16-fantasy-rpg-trash-mobs-animated">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>16x16 Puny Dungeon Tileset · <a href="https://opengameart.org/content/16x16-puny-dungeon-tileset">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>16x16 RPG Items (DB32) · <a href="https://opengameart.org/content/16x16-rpg-items-db32">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16%"><sub>16x16 Simple Fantasy RPG FX · <a href="https://opengameart.org/content/16x16-simple-fantasy-rpg-fx">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>2048 2D game design · <a href="https://opengameart.org/content/2048-2d-game-design">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>22 skill icons · <a href="https://opengameart.org/content/22-skill-icons">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>25 debens · <a href="https://opengameart.org/content/25-debens">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>2bit assets - humans, aliens, houses and cities · <a href="https://opengameart.org/content/2bit-assets-humans-aliens-houses-and-cities">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>2D airplane biplane sprite sheet · <a href="https://opengameart.org/content/2d-airplane-biplane-sprite-sheet">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16%"><sub>2D Ambulance Cartoon Clipart · <a href="https://opengameart.org/content/2d-ambulance-cartoon-clipart">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>2D Bow · <a href="https://opengameart.org/content/2d-bow">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>2D Female Character Animated Elfia · <a href="https://opengameart.org/content/2d-female-character-animated-elfia">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>2D Fighter Plane Template · <a href="https://opengameart.org/content/2d-fighter-plane-template">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>2D Forest Platformer Art Pack · <a href="https://opengameart.org/content/2d-forest-platformer-art-pack">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>2D Game Icons - Fruits &amp; Vegetables · <a href="https://opengameart.org/content/2d-game-icons-fruits-vegetables">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16%"><sub>2D Ghosty Animated (12 Different Colors) Pacman · <a href="https://opengameart.org/content/2d-ghosty-animated-12-different-colors-pacman">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>2d library texture · <a href="https://opengameart.org/content/2d-library-texture">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>2D pixel art guns · <a href="https://opengameart.org/content/2d-pixel-art-guns">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>2D Platformer mini set (64x64) · <a href="https://opengameart.org/content/2d-platformer-mini-set-64x64">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>2D RPG Item Icons · <a href="https://opengameart.org/content/2d-rpg-item-icons">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>2D Slime Animated (12 Different Colors) Unity Ready Prefab · <a href="https://opengameart.org/content/2d-slime-animated-12-different-colors-unity-ready-prefab">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16%"><sub>2d soviet vehicles · <a href="https://opengameart.org/content/2d-soviet-vehicles">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>2D Texture variety · <a href="https://opengameart.org/content/2d-texture-variety">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>2D Wooden Shield (Inkscape) · <a href="https://opengameart.org/content/2d-wooden-shield-inkscape">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>2D Word Game Pack · <a href="https://opengameart.org/content/2d-word-game-pack">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>32px Apparel Items · <a href="https://opengameart.org/content/32px-apparel-items">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>32px Electronics · <a href="https://opengameart.org/content/32px-electronics">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16%"><sub>32px Food Items · <a href="https://opengameart.org/content/32px-food-items">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>32px Medical Items · <a href="https://opengameart.org/content/32px-medical-items">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>32px Pill Bottle · <a href="https://opengameart.org/content/32px-pill-bottle">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>32px Plastic Cards · <a href="https://opengameart.org/content/32px-plastic-cards">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>32px Toy Capsules · <a href="https://opengameart.org/content/32px-toy-capsules">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>32x32 Character Profile · <a href="https://opengameart.org/content/32x32-character-profile">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16%"><sub>32X32 Dungeon Tileset · <a href="https://opengameart.org/content/32x32-dungeon-tileset-0">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>32x32 floor tiles · <a href="https://opengameart.org/content/32x32-floor-tiles">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>50+ Monsters Pack 2D · <a href="https://opengameart.org/content/50-monsters-pack-2d">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>71 monsters animations · <a href="https://opengameart.org/content/71-monsters-animations">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>8-Ball pool assets - fixed · <a href="https://opengameart.org/content/8-ball-pool-assets-fixed">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>8-bit style spaceships · <a href="https://opengameart.org/content/8-bit-style-spaceships">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16%"><sub>80x64 Male and Female Sprites Character Template · <a href="https://opengameart.org/content/80x64-male-and-female-sprites-character-template">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>8Bit NES - Big Slime Monster · <a href="https://opengameart.org/content/8bit-nes-big-slime-monster">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>8d run/walk &amp; idle sprite sheet · <a href="https://opengameart.org/content/8d-runwalk-idle-sprite-sheet">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>8x8 Font · <a href="https://opengameart.org/content/8x8-font-0">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Abstract Geometric Bosses, Bullets, Player and Other · <a href="https://opengameart.org/content/abstract-geometric-bosses-bullets-player-and-other">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Adventure Awaits Asset Pack 1.0 · <a href="https://opengameart.org/content/adventure-awaits-asset-pack-10">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16%"><sub>airship and hot air balloon · <a href="https://opengameart.org/content/airship-and-hot-air-balloon">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>AK 47 Gun Vector 2d · <a href="https://opengameart.org/content/ak-47-gun-vector-2d">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Alien pixel-art tileset and character · <a href="https://opengameart.org/content/alien-pixel-art-tileset-and-character">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>All aliens(10 versions,10 colors,13*10) · <a href="https://opengameart.org/content/all-aliens10-versions10-colors1310">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>American WW2 Bar Machine Gun · <a href="https://opengameart.org/content/american-ww2-bar-machine-gun">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>American WW2 M1 Garand Rifle · <a href="https://opengameart.org/content/american-ww2-m1-garand-rifle">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16%"><sub>American WW2 Thompson Submachine Gun · <a href="https://opengameart.org/content/american-ww2-thompson-submachine-gun">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Ammo Sprite · <a href="https://opengameart.org/content/ammo-sprite">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Animated Asteroid · <a href="https://opengameart.org/content/animated-asteroid">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Animated candle · <a href="https://opengameart.org/content/animated-candle">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Animated crow fountain · <a href="https://opengameart.org/content/animated-crow-fountain">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Animated Forest at dusk · <a href="https://opengameart.org/content/animated-forest-at-dusk">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16%"><sub>Animated Stick Figure Character 2D Free CC0 · <a href="https://opengameart.org/content/animated-stick-figure-character-2d-free-cc0">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Animated Transitions Pack · <a href="https://opengameart.org/content/animated-transitions-pack">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Animated UI Arrow · <a href="https://opengameart.org/content/animated-ui-arrow">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>anime-collection · <a href="https://opengameart.org/content/anime-collection">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Apple Character · <a href="https://opengameart.org/content/apple-character">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Apple Core · <a href="https://opengameart.org/content/apple-core">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16%"><sub>Armas para FPS baseados em sprites · <a href="https://opengameart.org/content/armas-para-fps-baseados-em-sprites">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>ASCIIlization Artwork · <a href="https://opengameart.org/content/asciilization-artwork">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Astrounaut Walking · <a href="https://opengameart.org/content/astrounaut-walking">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Auras · <a href="https://opengameart.org/content/auras">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Axe Cursor · <a href="https://opengameart.org/content/axe-cursor">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Axes · <a href="https://opengameart.org/content/axes-0">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16%"><sub>Background with ruins · <a href="https://opengameart.org/content/background-with-ruins">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Bag of chips trash and unused · <a href="https://opengameart.org/content/bag-of-chips-trash-and-unused">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Bald Guy Game Sprite · <a href="https://opengameart.org/content/bald-guy-game-sprite">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Balls · <a href="https://opengameart.org/content/balls">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Barbarian sprite parts + normal map · <a href="https://opengameart.org/content/barbarian-sprite-parts-normal-map">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Basic Potions Item Icons · <a href="https://opengameart.org/content/basic-potions-item-icons">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16%"><sub>Basketball · <a href="https://opengameart.org/content/basketball-1">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Bats 32x32 Recolor · <a href="https://opengameart.org/content/bats-32x32-recolor">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Bear · <a href="https://opengameart.org/content/bear-1">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Bed - pixel art · <a href="https://opengameart.org/content/bed-pixel-art">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Begginer Sprites · <a href="https://opengameart.org/content/begginer-sprites">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Beginner TileSet OUT NOW! · <a href="https://opengameart.org/content/beginner-tileset-out-now">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16%"><sub>Bejeweled Candy Crush Puzzle Balls · <a href="https://opengameart.org/content/bejeweled-candy-crush-puzzle-balls">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Bell · <a href="https://opengameart.org/content/bell">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>bike · <a href="https://opengameart.org/content/bike">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Bird · <a href="https://opengameart.org/content/bird-3">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Black and White HP and Super Bars · <a href="https://opengameart.org/content/black-and-white-hp-and-super-bars">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Block breaker · <a href="https://opengameart.org/content/block-breaker">OpenGameArt</a><br><i>arriving soon</i></sub></td>
 </tr>
 </table>
 
-Page [1](art-2d.md) · [2](art-2d-2.md) · **3**
+Page [1](art-2d.md) · [2](art-2d-2.md) · **3** · [4](art-2d-4.md) · [5](art-2d-5.md)
 
 ---
 

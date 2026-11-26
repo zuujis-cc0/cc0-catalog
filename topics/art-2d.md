@@ -1,17 +1,18 @@
 # 2D art and sprites
 
-Sprites, tiles, interfaces and backgrounds. **619 assets** from OpenGameArt.
+Sprites, tiles, interfaces and backgrounds. **1,114 assets** from OpenGameArt, 495 still arriving.
 
-[← All topics](../README.md) · Page **1** · [2](art-2d-2.md) · [3](art-2d-3.md)
+[← All topics](../README.md) · Page **1** · [2](art-2d-2.md) · [3](art-2d-3.md) · [4](art-2d-4.md) · [5](art-2d-5.md)
 
 <details>
-<summary>In 4 repositories</summary>
+<summary>In 5 repositories</summary>
 
 | Repository | Assets in this topic |
 | --- | --: |
 | [opengameart-2d-art](https://github.com/zuujis-cc0/opengameart-2d-art) | 262 |
 | [opengameart-2d-art-2](https://github.com/zuujis-cc0/opengameart-2d-art-2) | 119 |
-| [opengameart-2d-art-3](https://github.com/zuujis-cc0/opengameart-2d-art-3) | 81 |
+| [opengameart-2d-art-3](https://github.com/zuujis-cc0/opengameart-2d-art-3) | 205 |
+| [opengameart-2d-art-4](https://github.com/zuujis-cc0/opengameart-2d-art-4) | 371 |
 | [opengameart-kenney-2d-art](https://github.com/zuujis-cc0/opengameart-kenney-2d-art) | 157 |
 
 </details>
@@ -339,7 +340,7 @@ Sprites, tiles, interfaces and backgrounds. **619 assets** from OpenGameArt.
 </tr>
 </table>
 
-Page **1** · [2](art-2d-2.md) · [3](art-2d-3.md)
+Page **1** · [2](art-2d-2.md) · [3](art-2d-3.md) · [4](art-2d-4.md) · [5](art-2d-5.md)
 
 ---
 
