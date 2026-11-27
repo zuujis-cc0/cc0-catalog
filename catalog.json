@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "org": "zuujis-cc0",
  "sections": [
   {
@@ -266,8 +266,8 @@
      "slug": "fabric",
      "title": "Fabric and leather",
      "about": "Cloth, carpet, leather, wicker and rope",
-     "assets": 253,
-     "here": 253,
+     "assets": 254,
+     "here": 254,
      "sources": [
       "Poly Haven",
       "ambientCG"
@@ -631,8 +631,8 @@
      "slug": "art-2d",
      "title": "2D art and sprites",
      "about": "Sprites, tiles, interfaces and backgrounds",
-     "assets": 1114,
-     "here": 619,
+     "assets": 1585,
+     "here": 684,
      "sources": [
       "OpenGameArt"
      ],
@@ -641,40 +641,47 @@
       "opengameart-2d-art-2",
       "opengameart-2d-art-3",
       "opengameart-2d-art-4",
+      "opengameart-2d-art-5",
+      "opengameart-2d-art-6",
+      "opengameart-2d-art-7",
       "opengameart-kenney-2d-art"
      ],
      "page": "topics/art-2d.md",
-     "picture": "https://raw.githubusercontent.com/zuujis-cc0/opengameart-2d-art/main/previews/gate-1.png"
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/opengameart-2d-art/main/previews/haetae.png"
     },
     {
      "slug": "art-3d",
      "title": "3D game art",
      "about": "Game-ready models and packs",
-     "assets": 539,
-     "here": 472,
+     "assets": 806,
+     "here": 739,
      "sources": [
       "OpenGameArt"
      ],
      "repos": [
       "opengameart-3d-art",
+      "opengameart-3d-art-10",
+      "opengameart-3d-art-11",
       "opengameart-3d-art-2",
       "opengameart-3d-art-3",
       "opengameart-3d-art-4",
       "opengameart-3d-art-5",
       "opengameart-3d-art-6",
       "opengameart-3d-art-7",
+      "opengameart-3d-art-8",
+      "opengameart-3d-art-9",
       "opengameart-kenney-3d-art",
       "opengameart-quaternius-3d-art",
       "opengameart-quaternius-3d-art-2"
      ],
      "page": "topics/art-3d.md",
-     "picture": "https://raw.githubusercontent.com/zuujis-cc0/opengameart-3d-art/main/previews/face-2026.jpg"
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/opengameart-3d-art-4/main/previews/fish-1.png"
     },
     {
      "slug": "game-textures",
      "title": "Game textures",
      "about": "Textures made for games",
-     "assets": 148,
+     "assets": 210,
      "here": 56,
      "sources": [
       "OpenGameArt"
@@ -685,7 +692,8 @@
       "opengameart-texture-2",
       "opengameart-texture-3",
       "opengameart-texture-4",
-      "opengameart-texture-5"
+      "opengameart-texture-5",
+      "opengameart-texture-6"
      ],
      "page": "topics/game-textures.md",
      "picture": "https://raw.githubusercontent.com/zuujis-cc0/opengameart-texture-4/main/previews/gritty-lowres-scifi-wall-and-floor-textures.png"
@@ -694,8 +702,8 @@
      "slug": "music",
      "title": "Music",
      "about": "Songs and loops",
-     "assets": 1090,
-     "here": 500,
+     "assets": 1696,
+     "here": 713,
      "sources": [
       "OpenGameArt"
      ],
@@ -719,8 +727,27 @@
       "opengameart-music-24",
       "opengameart-music-25",
       "opengameart-music-26",
+      "opengameart-music-27",
+      "opengameart-music-28",
+      "opengameart-music-29",
       "opengameart-music-3",
+      "opengameart-music-30",
+      "opengameart-music-31",
+      "opengameart-music-32",
+      "opengameart-music-33",
+      "opengameart-music-34",
+      "opengameart-music-35",
+      "opengameart-music-36",
+      "opengameart-music-37",
+      "opengameart-music-38",
+      "opengameart-music-39",
       "opengameart-music-4",
+      "opengameart-music-40",
+      "opengameart-music-41",
+      "opengameart-music-42",
+      "opengameart-music-43",
+      "opengameart-music-44",
+      "opengameart-music-45",
       "opengameart-music-5",
       "opengameart-music-6",
       "opengameart-music-7",
@@ -728,14 +755,14 @@
       "opengameart-music-9"
      ],
      "page": "topics/music.md",
-     "picture": "https://raw.githubusercontent.com/zuujis-cc0/opengameart-music-12/main/previews/bravery-cheer.png"
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/opengameart-music-2/main/previews/cold-0.png"
     },
     {
      "slug": "sounds",
      "title": "Sound effects",
      "about": "Effects for games",
-     "assets": 148,
-     "here": 12,
+     "assets": 250,
+     "here": 117,
      "sources": [
       "OpenGameArt"
      ],
@@ -748,17 +775,18 @@
       "opengameart-sound-effect-5",
       "opengameart-sound-effect-6",
       "opengameart-sound-effect-7",
-      "opengameart-sound-effect-8"
+      "opengameart-sound-effect-8",
+      "opengameart-sound-effect-9"
      ],
      "page": "topics/sounds.md",
-     "picture": "https://raw.githubusercontent.com/zuujis-cc0/opengameart-kenney-sound-effect/main/previews/85-short-music-jingles.png"
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/opengameart-sound-effect-8/main/previews/female-shit-shit-shit.png"
     },
     {
      "slug": "concept",
      "title": "Concept art",
      "about": "Sketches and concept pieces",
-     "assets": 27,
-     "here": 27,
+     "assets": 41,
+     "here": 41,
      "sources": [
       "OpenGameArt"
      ],
@@ -766,14 +794,14 @@
       "opengameart-concept-art"
      ],
      "page": "topics/concept.md",
-     "picture": "https://raw.githubusercontent.com/zuujis-cc0/opengameart-concept-art/main/previews/fantasy-concept-4.png"
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/opengameart-concept-art/main/previews/demonz.jpg"
     },
     {
      "slug": "game-other",
      "title": "Other game assets",
      "about": "Documents, fonts and everything else",
-     "assets": 15,
-     "here": 15,
+     "assets": 16,
+     "here": 16,
      "sources": [
       "OpenGameArt"
      ],
@@ -787,6 +815,6 @@
    ]
   }
  ],
- "assets": 8407,
- "here": 7009
+ "assets": 9931,
+ "here": 7675
 }

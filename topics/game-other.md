@@ -1,6 +1,6 @@
 # Other game assets
 
-Documents, fonts and everything else. **15 assets** from OpenGameArt.
+Documents, fonts and everything else. **16 assets** from OpenGameArt.
 
 [← All topics](../README.md)
 
@@ -9,7 +9,7 @@ Documents, fonts and everything else. **15 assets** from OpenGameArt.
 
 | Repository | Assets in this topic |
 | --- | --: |
-| [opengameart-document](https://github.com/zuujis-cc0/opengameart-document) | 13 |
+| [opengameart-document](https://github.com/zuujis-cc0/opengameart-document) | 14 |
 | [opengameart-kenney-document](https://github.com/zuujis-cc0/opengameart-kenney-document) | 2 |
 
 </details>
@@ -33,6 +33,7 @@ Documents, fonts and everything else. **15 assets** from OpenGameArt.
 </tr>
 <tr>
 <td align="center" valign="top" width="16%"><a href="https://github.com/zuujis-cc0/opengameart-document/tree/main/nyntunkofuture-font-with-numbers"><img src="https://raw.githubusercontent.com/zuujis-cc0/opengameart-document/main/previews/nyntunkofuture-font-with-numbers.jpg" width="120" alt="NyntunkoFuture Font with numbers"></a><br><sub><a href="https://github.com/zuujis-cc0/opengameart-document/tree/main/nyntunkofuture-font-with-numbers">NyntunkoFuture Font with numbers</a> · <a href="https://opengameart.org/content/nyntunkofuture-font-with-numbers">OpenGameArt</a></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://github.com/zuujis-cc0/opengameart-document/tree/main/pixelpunk-font"><img src="https://raw.githubusercontent.com/zuujis-cc0/opengameart-document/main/previews/pixelpunk-font.png" width="120" alt="PixelPunk Font"></a><br><sub><a href="https://github.com/zuujis-cc0/opengameart-document/tree/main/pixelpunk-font">PixelPunk Font</a> · <a href="https://opengameart.org/content/pixelpunk-font">OpenGameArt</a></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://github.com/zuujis-cc0/opengameart-document/tree/main/pizel-font"><img src="https://raw.githubusercontent.com/zuujis-cc0/opengameart-document/main/previews/pizel-font.png" width="120" alt="Pizel Font"></a><br><sub><a href="https://github.com/zuujis-cc0/opengameart-document/tree/main/pizel-font">Pizel Font</a> · <a href="https://opengameart.org/content/pizel-font">OpenGameArt</a></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://github.com/zuujis-cc0/opengameart-document/tree/main/renascence-mono-font-ttf-and-fnt"><img src="https://raw.githubusercontent.com/zuujis-cc0/opengameart-document/main/previews/renascence-mono-font-ttf-and-fnt.png" width="120" alt="Renascence Mono Font (.ttf and .fnt)"></a><br><sub><a href="https://github.com/zuujis-cc0/opengameart-document/tree/main/renascence-mono-font-ttf-and-fnt">Renascence Mono Font (.ttf and .fnt)</a> · <a href="https://opengameart.org/content/renascence-mono-font-ttf-and-fnt">OpenGameArt</a></sub></td>
 </tr>
