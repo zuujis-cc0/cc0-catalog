@@ -1,8 +1,8 @@
 # CC0 catalogue
 
-**Every asset mirrored in [zuujis-cc0](https://github.com/zuujis-cc0), grouped by what it is.** 9,931 assets from Poly Haven, ambientCG, OpenGameArt, all public domain under [CC0](https://creativecommons.org/publicdomain/zero/1.0/): use them in any game, free or paid, no credit needed.
+**Every asset mirrored in [zuujis-cc0](https://github.com/zuujis-cc0), grouped by what it is.** 11,483 assets from Poly Haven, ambientCG, OpenGameArt, all public domain under [CC0](https://creativecommons.org/publicdomain/zero/1.0/): use them in any game, free or paid, no credit needed.
 
-Each topic page shows every asset with a picture; click one to open its folder, where every file can be opened and saved on its own. The mirror repositories fill themselves, so a few assets may still be arriving. Updated every day from [cc0-mirror](https://github.com/zuujis-cc0/cc0-mirror) (last: 2026-11-27).
+Each topic page shows every asset with a picture; click one to open its folder, where every file can be opened and saved on its own. The mirror repositories fill themselves, so a few assets may still be arriving. Updated every day from [cc0-mirror](https://github.com/zuujis-cc0/cc0-mirror) (last: 2026-11-28).
 
 ## 🧱 Textures and materials
 
@@ -22,7 +22,7 @@ Each topic page shows every asset with a picture; click one to open its folder, 
 <tr>
 <td align="center" valign="top" width="25%"><a href="topics/fabric.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/ambientcg-materials-fabric-3/main/previews/Fabric052.png" width="140" alt=""></a><br><b><a href="topics/fabric.md">Fabric and leather</a></b><br><sub>254 assets · Poly Haven, ambientCG</sub></td>
 <td align="center" valign="top" width="25%"><a href="topics/wear.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/ambientcg-materials-more-3/main/previews/Footsteps005.png" width="140" alt=""></a><br><b><a href="topics/wear.md">Dirt, scratches and wear</a></b><br><sub>66 assets · ambientCG</sub></td>
-<td align="center" valign="top" width="25%"><a href="topics/other-surfaces.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/ambientcg-materials-more-5/main/previews/Paper006.png" width="140" alt=""></a><br><b><a href="topics/other-surfaces.md">Plastic, paper and more</a></b><br><sub>133 assets · Poly Haven, ambientCG</sub></td>
+<td align="center" valign="top" width="25%"><a href="topics/other-surfaces.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/ambientcg-materials-more-5/main/previews/Paper005.png" width="140" alt=""></a><br><b><a href="topics/other-surfaces.md">Plastic, paper and more</a></b><br><sub>134 assets · Poly Haven, ambientCG</sub></td>
 </tr>
 </table>
 
@@ -57,7 +57,7 @@ Each topic page shows every asset with a picture; click one to open its folder, 
 <td align="center" valign="top" width="25%"><a href="topics/furniture.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/polyhaven-models-furniture/main/previews/GothicCabinet_01.webp" width="140" alt=""></a><br><b><a href="topics/furniture.md">Furniture, decor and lights</a></b><br><sub>151 assets · Poly Haven</sub></td>
 <td align="center" valign="top" width="25%"><a href="topics/nature-models.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/polyhaven-models-nature-2/main/previews/flower_empodium.webp" width="140" alt=""></a><br><b><a href="topics/nature-models.md">Plants, rocks and nature</a></b><br><sub>103 assets · Poly Haven, ambientCG</sub></td>
 <td align="center" valign="top" width="25%"><a href="topics/food.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/ambientcg-models/main/previews/3DLemon001.png" width="140" alt=""></a><br><b><a href="topics/food.md">Food and kitchen</a></b><br><sub>67 assets · Poly Haven, ambientCG</sub></td>
-<td align="center" valign="top" width="25%"><a href="topics/tools.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/polyhaven-models-tools-and-equipment/main/previews/measuring_tape_01.webp" width="140" alt=""></a><br><b><a href="topics/tools.md">Tools and weapons</a></b><br><sub>65 assets · Poly Haven</sub></td>
+<td align="center" valign="top" width="25%"><a href="topics/tools.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/polyhaven-models-weapons/main/previews/kite_shield.webp" width="140" alt=""></a><br><b><a href="topics/tools.md">Tools and weapons</a></b><br><sub>65 assets · Poly Haven</sub></td>
 </tr>
 <tr>
 <td align="center" valign="top" width="25%"><a href="topics/vehicles.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/polyhaven-models-vehicles-and-transport/main/previews/dutch_ship_medium.webp" width="140" alt=""></a><br><b><a href="topics/vehicles.md">Vehicles</a></b><br><sub>11 assets · Poly Haven</sub></td>
@@ -70,15 +70,15 @@ Each topic page shows every asset with a picture; click one to open its folder, 
 
 <table>
 <tr>
-<td align="center" valign="top" width="25%"><a href="topics/art-2d.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/opengameart-2d-art/main/previews/haetae.png" width="140" alt=""></a><br><b><a href="topics/art-2d.md">2D art and sprites</a></b><br><sub>1,585 assets · OpenGameArt</sub></td>
-<td align="center" valign="top" width="25%"><a href="topics/art-3d.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/opengameart-3d-art-4/main/previews/fish-1.png" width="140" alt=""></a><br><b><a href="topics/art-3d.md">3D game art</a></b><br><sub>806 assets · OpenGameArt</sub></td>
-<td align="center" valign="top" width="25%"><a href="topics/game-textures.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/opengameart-texture-4/main/previews/gritty-lowres-scifi-wall-and-floor-textures.png" width="140" alt=""></a><br><b><a href="topics/game-textures.md">Game textures</a></b><br><sub>210 assets · OpenGameArt</sub></td>
-<td align="center" valign="top" width="25%"><a href="topics/music.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/opengameart-music-2/main/previews/cold-0.png" width="140" alt=""></a><br><b><a href="topics/music.md">Music</a></b><br><sub>1,696 assets · OpenGameArt</sub></td>
+<td align="center" valign="top" width="25%"><a href="topics/art-2d.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/opengameart-2d-art/main/previews/haetae.png" width="140" alt=""></a><br><b><a href="topics/art-2d.md">2D art and sprites</a></b><br><sub>2,147 assets · OpenGameArt</sub></td>
+<td align="center" valign="top" width="25%"><a href="topics/art-3d.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/opengameart-3d-art-4/main/previews/flathead-screwdriver.png" width="140" alt=""></a><br><b><a href="topics/art-3d.md">3D game art</a></b><br><sub>1,059 assets · OpenGameArt</sub></td>
+<td align="center" valign="top" width="25%"><a href="topics/game-textures.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/opengameart-texture-2/main/previews/handpainted-stocking-stitch-texture-2k.png" width="140" alt=""></a><br><b><a href="topics/game-textures.md">Game textures</a></b><br><sub>280 assets · OpenGameArt</sub></td>
+<td align="center" valign="top" width="25%"><a href="topics/music.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/opengameart-music-16/main/previews/epic-version-toccata-and-fugue.png" width="140" alt=""></a><br><b><a href="topics/music.md">Music</a></b><br><sub>2,250 assets · OpenGameArt</sub></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="25%"><a href="topics/sounds.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/opengameart-sound-effect-8/main/previews/female-shit-shit-shit.png" width="140" alt=""></a><br><b><a href="topics/sounds.md">Sound effects</a></b><br><sub>250 assets · OpenGameArt</sub></td>
-<td align="center" valign="top" width="25%"><a href="topics/concept.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/opengameart-concept-art/main/previews/demonz.jpg" width="140" alt=""></a><br><b><a href="topics/concept.md">Concept art</a></b><br><sub>41 assets · OpenGameArt</sub></td>
-<td align="center" valign="top" width="25%"><a href="topics/game-other.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/opengameart-document/main/previews/jester-scrawl-font.png" width="140" alt=""></a><br><b><a href="topics/game-other.md">Other game assets</a></b><br><sub>16 assets · OpenGameArt</sub></td>
+<td align="center" valign="top" width="25%"><a href="topics/sounds.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/opengameart-sound-effect-8/main/previews/fleshy-bone-breaksnap-sfx.png" width="140" alt=""></a><br><b><a href="topics/sounds.md">Sound effects</a></b><br><sub>327 assets · OpenGameArt</sub></td>
+<td align="center" valign="top" width="25%"><a href="topics/concept.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/opengameart-concept-art/main/previews/demonz.jpg" width="140" alt=""></a><br><b><a href="topics/concept.md">Concept art</a></b><br><sub>69 assets · OpenGameArt</sub></td>
+<td align="center" valign="top" width="25%"><a href="topics/game-other.md"><img src="https://raw.githubusercontent.com/zuujis-cc0/opengameart-document/main/previews/jester-scrawl-font.png" width="140" alt=""></a><br><b><a href="topics/game-other.md">Other game assets</a></b><br><sub>23 assets · OpenGameArt</sub></td>
 </tr>
 </table>
 
@@ -86,9 +86,9 @@ Each topic page shows every asset with a picture; click one to open its folder, 
 
 | Source | Assets | Repositories | Filled |
 | --- | --: | --: | --: |
-| [Poly Haven](https://github.com/orgs/zuujis-cc0/repositories?q=polyhaven-) | 2,393 | 64 | 63 |
+| [Poly Haven](https://github.com/orgs/zuujis-cc0/repositories?q=polyhaven-) | 2,394 | 64 | 64 |
 | [ambientCG](https://github.com/orgs/zuujis-cc0/repositories?q=ambientcg-) | 2,934 | 108 | 107 |
-| [OpenGameArt](https://github.com/orgs/zuujis-cc0/repositories?q=opengameart-) | 4,604 | 87 | 43 |
+| [OpenGameArt](https://github.com/orgs/zuujis-cc0/repositories?q=opengameart-) | 6,155 | 105 | 57 |
 
 ---
 

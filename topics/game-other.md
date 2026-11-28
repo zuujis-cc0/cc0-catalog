@@ -1,6 +1,6 @@
 # Other game assets
 
-Documents, fonts and everything else. **16 assets** from OpenGameArt.
+Documents, fonts and everything else. **23 assets** from OpenGameArt, 7 still arriving.
 
 [← All topics](../README.md)
 
@@ -9,7 +9,7 @@ Documents, fonts and everything else. **16 assets** from OpenGameArt.
 
 | Repository | Assets in this topic |
 | --- | --: |
-| [opengameart-document](https://github.com/zuujis-cc0/opengameart-document) | 14 |
+| [opengameart-document](https://github.com/zuujis-cc0/opengameart-document) | 21 |
 | [opengameart-kenney-document](https://github.com/zuujis-cc0/opengameart-kenney-document) | 2 |
 
 </details>
@@ -36,6 +36,15 @@ Documents, fonts and everything else. **16 assets** from OpenGameArt.
 <td align="center" valign="top" width="16%"><a href="https://github.com/zuujis-cc0/opengameart-document/tree/main/pixelpunk-font"><img src="https://raw.githubusercontent.com/zuujis-cc0/opengameart-document/main/previews/pixelpunk-font.png" width="120" alt="PixelPunk Font"></a><br><sub><a href="https://github.com/zuujis-cc0/opengameart-document/tree/main/pixelpunk-font">PixelPunk Font</a> · <a href="https://opengameart.org/content/pixelpunk-font">OpenGameArt</a></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://github.com/zuujis-cc0/opengameart-document/tree/main/pizel-font"><img src="https://raw.githubusercontent.com/zuujis-cc0/opengameart-document/main/previews/pizel-font.png" width="120" alt="Pizel Font"></a><br><sub><a href="https://github.com/zuujis-cc0/opengameart-document/tree/main/pizel-font">Pizel Font</a> · <a href="https://opengameart.org/content/pizel-font">OpenGameArt</a></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://github.com/zuujis-cc0/opengameart-document/tree/main/renascence-mono-font-ttf-and-fnt"><img src="https://raw.githubusercontent.com/zuujis-cc0/opengameart-document/main/previews/renascence-mono-font-ttf-and-fnt.png" width="120" alt="Renascence Mono Font (.ttf and .fnt)"></a><br><sub><a href="https://github.com/zuujis-cc0/opengameart-document/tree/main/renascence-mono-font-ttf-and-fnt">Renascence Mono Font (.ttf and .fnt)</a> · <a href="https://opengameart.org/content/renascence-mono-font-ttf-and-fnt">OpenGameArt</a></sub></td>
+<td align="center" valign="top" width="16%"><sub>Assets Education: Certificate - Award Template · <a href="https://opengameart.org/content/assets-education-certificate-award-template">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Blaec Font · <a href="https://opengameart.org/content/blaec-font">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16%"><sub>First Time Writing! Font · <a href="https://opengameart.org/content/first-time-writing-font">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Freedoom Datacenter: The Xenoverse · <a href="https://opengameart.org/content/freedoom-datacenter-the-xenoverse">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Pixtile Font · <a href="https://opengameart.org/content/pixtile-font">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>PT-BR Common Localisation Strings · <a href="https://opengameart.org/content/pt-br-common-localisation-strings">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Public Pixel Font · <a href="https://opengameart.org/content/public-pixel-font">OpenGameArt</a><br><i>arriving soon</i></sub></td>
 </tr>
 </table>
 

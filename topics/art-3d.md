@@ -1,17 +1,20 @@
 # 3D game art
 
-Game-ready models and packs. **806 assets** from OpenGameArt, 67 still arriving.
+Game-ready models and packs. **1,059 assets** from OpenGameArt, 316 still arriving.
 
-[← All topics](../README.md) · Page **1** · [2](art-3d-2.md) · [3](art-3d-3.md) · [4](art-3d-4.md)
+[← All topics](../README.md) · Page **1** · [2](art-3d-2.md) · [3](art-3d-3.md) · [4](art-3d-4.md) · [5](art-3d-5.md)
 
 <details>
-<summary>In 14 repositories</summary>
+<summary>In 17 repositories</summary>
 
 | Repository | Assets in this topic |
 | --- | --: |
 | [opengameart-3d-art](https://github.com/zuujis-cc0/opengameart-3d-art) | 80 |
 | [opengameart-3d-art-10](https://github.com/zuujis-cc0/opengameart-3d-art-10) | 152 |
-| [opengameart-3d-art-11](https://github.com/zuujis-cc0/opengameart-3d-art-11) | 7 |
+| [opengameart-3d-art-11](https://github.com/zuujis-cc0/opengameart-3d-art-11) | 64 |
+| [opengameart-3d-art-12](https://github.com/zuujis-cc0/opengameart-3d-art-12) | 102 |
+| [opengameart-3d-art-13](https://github.com/zuujis-cc0/opengameart-3d-art-13) | 91 |
+| [opengameart-3d-art-14](https://github.com/zuujis-cc0/opengameart-3d-art-14) | 3 |
 | [opengameart-3d-art-2](https://github.com/zuujis-cc0/opengameart-3d-art-2) | 27 |
 | [opengameart-3d-art-3](https://github.com/zuujis-cc0/opengameart-3d-art-3) | 63 |
 | [opengameart-3d-art-4](https://github.com/zuujis-cc0/opengameart-3d-art-4) | 79 |
@@ -349,7 +352,7 @@ Game-ready models and packs. **806 assets** from OpenGameArt, 67 still arriving.
 </tr>
 </table>
 
-Page **1** · [2](art-3d-2.md) · [3](art-3d-3.md) · [4](art-3d-4.md)
+Page **1** · [2](art-3d-2.md) · [3](art-3d-3.md) · [4](art-3d-4.md) · [5](art-3d-5.md)
 
 ---
 

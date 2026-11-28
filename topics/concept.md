@@ -1,6 +1,6 @@
 # Concept art
 
-Sketches and concept pieces. **41 assets** from OpenGameArt.
+Sketches and concept pieces. **69 assets** from OpenGameArt, 28 still arriving.
 
 [← All topics](../README.md)
 
@@ -9,7 +9,7 @@ Sketches and concept pieces. **41 assets** from OpenGameArt.
 
 | Repository | Assets in this topic |
 | --- | --: |
-| [opengameart-concept-art](https://github.com/zuujis-cc0/opengameart-concept-art) | 41 |
+| [opengameart-concept-art](https://github.com/zuujis-cc0/opengameart-concept-art) | 69 |
 
 </details>
 
@@ -68,6 +68,44 @@ Sketches and concept pieces. **41 assets** from OpenGameArt.
 <td align="center" valign="top" width="16%"><a href="https://github.com/zuujis-cc0/opengameart-concept-art/tree/main/the-lunar-moth-set-concept-art"><img src="https://raw.githubusercontent.com/zuujis-cc0/opengameart-concept-art/main/previews/the-lunar-moth-set-concept-art.png" width="120" alt="The Lunar Moth | Set - Concept Art"></a><br><sub><a href="https://github.com/zuujis-cc0/opengameart-concept-art/tree/main/the-lunar-moth-set-concept-art">The Lunar Moth | Set - Concept Art</a> · <a href="https://opengameart.org/content/the-lunar-moth-set-concept-art">OpenGameArt</a></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://github.com/zuujis-cc0/opengameart-concept-art/tree/main/toxic-barrels"><img src="https://raw.githubusercontent.com/zuujis-cc0/opengameart-concept-art/main/previews/toxic-barrels.png" width="120" alt="Toxic Barrels"></a><br><sub><a href="https://github.com/zuujis-cc0/opengameart-concept-art/tree/main/toxic-barrels">Toxic Barrels</a> · <a href="https://opengameart.org/content/toxic-barrels">OpenGameArt</a></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://github.com/zuujis-cc0/opengameart-concept-art/tree/main/unamed-fantasy-creature"><img src="https://raw.githubusercontent.com/zuujis-cc0/opengameart-concept-art/main/previews/unamed-fantasy-creature.png" width="120" alt="unamed fantasy creature"></a><br><sub><a href="https://github.com/zuujis-cc0/opengameart-concept-art/tree/main/unamed-fantasy-creature">unamed fantasy creature</a> · <a href="https://opengameart.org/content/unamed-fantasy-creature">OpenGameArt</a></sub></td>
+<td align="center" valign="top" width="16%"><sub>2nd try space concept art · <a href="https://opengameart.org/content/2nd-try-space-concept-art">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16%"><sub>3 Alien Doodles · <a href="https://opengameart.org/content/3-alien-doodles">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>3rd try space concept art · <a href="https://opengameart.org/content/3rd-try-space-concept-art">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Axe Badass · <a href="https://opengameart.org/content/axe-badass">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Big Tusked Brut · <a href="https://opengameart.org/content/big-tusked-brut">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Cowgirl Samurai · <a href="https://opengameart.org/content/cowgirl-samurai">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Creature and its cub sketch · <a href="https://opengameart.org/content/creature-and-its-cub-sketch">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16%"><sub>Creature Painting Spine · <a href="https://opengameart.org/content/creature-painting-spine">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Creature Silhouettes · <a href="https://opengameart.org/content/creature-silhouettes">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Creature with Blade Arms · <a href="https://opengameart.org/content/creature-with-blade-arms">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Creature with Many Heads · <a href="https://opengameart.org/content/creature-with-many-heads">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Demon Bot · <a href="https://opengameart.org/content/demon-bot">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Flaming Creature Design with Morphing Hand · <a href="https://opengameart.org/content/flaming-creature-design-with-morphing-hand">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16%"><sub>Jaws Sketch · <a href="https://opengameart.org/content/jaws-sketch">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>JTTS mask and wing concepts · <a href="https://opengameart.org/content/jtts-mask-and-wing-concepts">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Looking for fellows XD · <a href="https://opengameart.org/content/looking-for-fellows-xd">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Mutant Cook · <a href="https://opengameart.org/content/mutant-cook">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Orc That Hunts Humans · <a href="https://opengameart.org/content/orc-that-hunts-humans">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Psychic prisoner girl · <a href="https://opengameart.org/content/psychic-prisoner-girl">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16%"><sub>Red Dragon · <a href="https://opengameart.org/content/red-dragon-0">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Red Porcelin · <a href="https://opengameart.org/content/red-porcelin">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Slime Girl · <a href="https://opengameart.org/content/slime-girl">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Stylized Rock Monster · <a href="https://opengameart.org/content/stylized-rock-monster">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Suit Idea · <a href="https://opengameart.org/content/suit-idea">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Summon Thunder · <a href="https://opengameart.org/content/summon-thunder">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16%"><sub>Textured Red Creature Views · <a href="https://opengameart.org/content/textured-red-creature-views">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>Venomous Giant Worm Enemy · <a href="https://opengameart.org/content/venomous-giant-worm-enemy">OpenGameArt</a><br><i>arriving soon</i></sub></td>
+<td align="center" valign="top" width="16%"><sub>View from a distant planet concept · <a href="https://opengameart.org/content/view-from-a-distant-planet-concept">OpenGameArt</a><br><i>arriving soon</i></sub></td>
 </tr>
 </table>
 

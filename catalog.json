@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "org": "zuujis-cc0",
  "sections": [
   {
@@ -315,8 +315,8 @@
      "slug": "other-surfaces",
      "title": "Plastic, paper and more",
      "about": "Plastic, paper, cardboard, foam, food and everything else",
-     "assets": 133,
-     "here": 133,
+     "assets": 134,
+     "here": 134,
      "sources": [
       "Poly Haven",
       "ambientCG"
@@ -335,7 +335,7 @@
       "polyhaven-textures-plastic-and-rubber"
      ],
      "page": "topics/other-surfaces.md",
-     "picture": "https://raw.githubusercontent.com/zuujis-cc0/ambientcg-materials-more-5/main/previews/Paper006.png"
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/ambientcg-materials-more-5/main/previews/Paper005.png"
     }
    ]
   },
@@ -560,7 +560,7 @@
      "title": "Tools and weapons",
      "about": "Hand tools, equipment and weapons",
      "assets": 65,
-     "here": 52,
+     "here": 65,
      "sources": [
       "Poly Haven"
      ],
@@ -569,7 +569,7 @@
       "polyhaven-models-weapons"
      ],
      "page": "topics/tools.md",
-     "picture": "https://raw.githubusercontent.com/zuujis-cc0/polyhaven-models-tools-and-equipment/main/previews/measuring_tape_01.webp"
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/polyhaven-models-weapons/main/previews/kite_shield.webp"
     },
     {
      "slug": "vehicles",
@@ -631,8 +631,8 @@
      "slug": "art-2d",
      "title": "2D art and sprites",
      "about": "Sprites, tiles, interfaces and backgrounds",
-     "assets": 1585,
-     "here": 684,
+     "assets": 2147,
+     "here": 1167,
      "sources": [
       "OpenGameArt"
      ],
@@ -644,6 +644,8 @@
       "opengameart-2d-art-5",
       "opengameart-2d-art-6",
       "opengameart-2d-art-7",
+      "opengameart-2d-art-8",
+      "opengameart-2d-art-9",
       "opengameart-kenney-2d-art"
      ],
      "page": "topics/art-2d.md",
@@ -653,8 +655,8 @@
      "slug": "art-3d",
      "title": "3D game art",
      "about": "Game-ready models and packs",
-     "assets": 806,
-     "here": 739,
+     "assets": 1059,
+     "here": 743,
      "sources": [
       "OpenGameArt"
      ],
@@ -662,6 +664,9 @@
       "opengameart-3d-art",
       "opengameart-3d-art-10",
       "opengameart-3d-art-11",
+      "opengameart-3d-art-12",
+      "opengameart-3d-art-13",
+      "opengameart-3d-art-14",
       "opengameart-3d-art-2",
       "opengameart-3d-art-3",
       "opengameart-3d-art-4",
@@ -675,14 +680,14 @@
       "opengameart-quaternius-3d-art-2"
      ],
      "page": "topics/art-3d.md",
-     "picture": "https://raw.githubusercontent.com/zuujis-cc0/opengameart-3d-art-4/main/previews/fish-1.png"
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/opengameart-3d-art-4/main/previews/flathead-screwdriver.png"
     },
     {
      "slug": "game-textures",
      "title": "Game textures",
      "about": "Textures made for games",
-     "assets": 210,
-     "here": 56,
+     "assets": 280,
+     "here": 152,
      "sources": [
       "OpenGameArt"
      ],
@@ -693,17 +698,19 @@
       "opengameart-texture-3",
       "opengameart-texture-4",
       "opengameart-texture-5",
-      "opengameart-texture-6"
+      "opengameart-texture-6",
+      "opengameart-texture-7",
+      "opengameart-texture-8"
      ],
      "page": "topics/game-textures.md",
-     "picture": "https://raw.githubusercontent.com/zuujis-cc0/opengameart-texture-4/main/previews/gritty-lowres-scifi-wall-and-floor-textures.png"
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/opengameart-texture-2/main/previews/handpainted-stocking-stitch-texture-2k.png"
     },
     {
      "slug": "music",
      "title": "Music",
      "about": "Songs and loops",
-     "assets": 1696,
-     "here": 713,
+     "assets": 2250,
+     "here": 1001,
      "sources": [
       "OpenGameArt"
      ],
@@ -748,21 +755,32 @@
       "opengameart-music-43",
       "opengameart-music-44",
       "opengameart-music-45",
+      "opengameart-music-46",
+      "opengameart-music-47",
+      "opengameart-music-48",
+      "opengameart-music-49",
       "opengameart-music-5",
+      "opengameart-music-50",
+      "opengameart-music-51",
+      "opengameart-music-52",
+      "opengameart-music-53",
+      "opengameart-music-54",
+      "opengameart-music-55",
+      "opengameart-music-56",
       "opengameart-music-6",
       "opengameart-music-7",
       "opengameart-music-8",
       "opengameart-music-9"
      ],
      "page": "topics/music.md",
-     "picture": "https://raw.githubusercontent.com/zuujis-cc0/opengameart-music-2/main/previews/cold-0.png"
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/opengameart-music-16/main/previews/epic-version-toccata-and-fugue.png"
     },
     {
      "slug": "sounds",
      "title": "Sound effects",
      "about": "Effects for games",
-     "assets": 250,
-     "here": 117,
+     "assets": 327,
+     "here": 246,
      "sources": [
       "OpenGameArt"
      ],
@@ -779,13 +797,13 @@
       "opengameart-sound-effect-9"
      ],
      "page": "topics/sounds.md",
-     "picture": "https://raw.githubusercontent.com/zuujis-cc0/opengameart-sound-effect-8/main/previews/female-shit-shit-shit.png"
+     "picture": "https://raw.githubusercontent.com/zuujis-cc0/opengameart-sound-effect-8/main/previews/fleshy-bone-breaksnap-sfx.png"
     },
     {
      "slug": "concept",
      "title": "Concept art",
      "about": "Sketches and concept pieces",
-     "assets": 41,
+     "assets": 69,
      "here": 41,
      "sources": [
       "OpenGameArt"
@@ -800,7 +818,7 @@
      "slug": "game-other",
      "title": "Other game assets",
      "about": "Documents, fonts and everything else",
-     "assets": 16,
+     "assets": 23,
      "here": 16,
      "sources": [
       "OpenGameArt"
@@ -815,6 +833,6 @@
    ]
   }
  ],
- "assets": 9931,
- "here": 7675
+ "assets": 11483,
+ "here": 8689
 }

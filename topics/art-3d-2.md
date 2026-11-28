@@ -1,8 +1,8 @@
 # 3D game art
 
-Game-ready models and packs. **806 assets** from OpenGameArt, 67 still arriving.
+Game-ready models and packs. **1,059 assets** from OpenGameArt, 316 still arriving.
 
-[← All topics](../README.md) · Page [1](art-3d.md) · **2** · [3](art-3d-3.md) · [4](art-3d-4.md)
+[← All topics](../README.md) · Page [1](art-3d.md) · **2** · [3](art-3d-3.md) · [4](art-3d-4.md) · [5](art-3d-5.md)
 
 <table>
 <tr>
@@ -327,7 +327,7 @@ Game-ready models and packs. **806 assets** from OpenGameArt, 67 still arriving.
 </tr>
 </table>
 
-Page [1](art-3d.md) · **2** · [3](art-3d-3.md) · [4](art-3d-4.md)
+Page [1](art-3d.md) · **2** · [3](art-3d-3.md) · [4](art-3d-4.md) · [5](art-3d-5.md)
 
 ---
 
